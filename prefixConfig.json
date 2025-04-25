@@ -1,0 +1,9 @@
+{
+  "multiPrefix": false,
+  "prefixes": [
+    "#",
+    "/",
+    "!"
+  ],
+  "singlePrefix": "!"
+}
