@@ -1,5 +1,5 @@
 const axios = require('axios');
-const GEMINI_API_KEY = process.env.GEMINI_API_KEY || 'AIzaSyDKG1xz4B8WexPRmnSJlgrM-a6pqtRFGE8';
+const GEMINI_API_KEY = process.env.GEMINI_API_KEY || 'your_api_key_here';
 
 async function geminiChatReply(message) {
     console.log('Gemini API key used:', GEMINI_API_KEY);
