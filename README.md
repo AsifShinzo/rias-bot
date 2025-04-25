@@ -21,7 +21,7 @@ A WhatsApp bot built with Node.js that provides various anime and manga related 
 
 1. Clone the repository:
    ```bash
-   git clone <repository_url>
+   git clone https://github.com/AsifShinzo/rias-bot.git
    cd whatsapp-anime-bot
    ```
 
@@ -40,7 +40,7 @@ A WhatsApp bot built with Node.js that provides various anime and manga related 
 
 1. Start the bot:
    ```bash
-   npm start
+   node bot.js
    ```
 
 2. Interact with the bot on WhatsApp using the configured command prefix.
